@@ -1,0 +1,6 @@
+com/example/simplecalculator/databinding/MainActivityBinding.java
+ com.example.simplecalculator.databinding.MainActivityBinding
+com/example/simplecalculator/databinding/MainFragmentBinding.java
+ com.example.simplecalculator.databinding.MainFragmentBinding
+com/example/simplecalculator/BuildConfig.java
+ com.example.simplecalculator.BuildConfig

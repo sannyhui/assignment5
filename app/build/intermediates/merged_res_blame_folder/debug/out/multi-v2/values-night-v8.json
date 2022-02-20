@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/sannyhui/.gradle/caches/transforms-3/05b759ac6def3b95ee73148b51e20a6f/transformed/material-1.4.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,45,46,47,48,49,50,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1045,1133,1257,1359,1461,1577,1679,1793,1921,2037,2159,2295,2415,2549,2669,2781,3603,3727,3857,3979,4117,4251,4367",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "1128,1252,1354,1456,1572,1674,1788,1916,2032,2154,2290,2410,2544,2664,2776,2902,3722,3852,3974,4112,4246,4362,4482"
+                    }
+                },
+                {
+                    "source": "/Users/sannyhui/.gradle/caches/transforms-3/170d77ea1fa6b8d80f1656c6957d63e4/transformed/appcompat-1.4.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,44",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "413,483,567,651,747,849,951,3514",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "478,562,646,742,844,946,1040,3598"
+                    }
+                },
+                {
+                    "source": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2907",
+                        "endLines": "43",
+                        "endColumns": "12",
+                        "endOffsets": "3509"
+                    }
+                },
+                {
+                    "source": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/src/main/res/values-night/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,6,-1,-1",
+                        "startColumns": "-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,255,-1,-1",
+                        "endColumns": "-1,-1,-1,64,-1,-1",
+                        "endOffsets": "-1,-1,-1,315,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "100,154,202,246,311,359",
+                        "endColumns": "53,47,43,64,47,53",
+                        "endOffsets": "149,197,241,306,354,408"
+                    }
+                }
+            ]
+        }
+    ]
+}

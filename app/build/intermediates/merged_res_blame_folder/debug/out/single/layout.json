@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/sannyhui/Documents/Projects/assignment 5/assignment5-master/app/src/main/res/layout/main_activity.xml"
+    }
+]

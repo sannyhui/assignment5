@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="convert">Convert</string>
+    <string name="calculate">Calculate</string>
+    <string name="formula_here">Formula Here</string>
+    <string name="decimal_place">1 . . . . 5 . . . . 10</string>
+    <string name="font_size">Font Size</string>
+</resources>
